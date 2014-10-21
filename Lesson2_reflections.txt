@@ -6,4 +6,28 @@ You create an empty repository. You need to do it to have a place on your comput
 
 The staging area is a place between the working directory and the repository. it allows to first select the files we want to send to the repository, and then send them to the repository when we are sure that we have all the files we want in the staging area.
 
+3) How can you use the staging area to make sure you have one commit per logical change?
+
+You can check your changes in the file that is in the staging area, and if those changes represent a logical one, then you can commit the file.
+
+4) What are some situations when bracnhes would be helpful in keeping your history organized? How would branches help?
+
+As explained, we can have an experimental branches when we would implement and test some new features, or a branch with the same document as in the master branch, but in a different language.
+
+5) How do the diagrams help you visualize the branch structure?
+
+It helps to understand where are each commit in the repository.
+
+6) What is the result of merging two branches together? Why do we reprensent it in the diagram the way we do?
+
+We only have one branch as a result, so we combine the changes mades in the commits of the 2 branches.
+
+7) What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Pros:
+- faster
+
+Cons:
+- no power to change if the changes from both branches won't make a working project.
+
 

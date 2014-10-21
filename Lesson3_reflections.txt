@@ -2,3 +2,8 @@
 
 A remote repository seems to be very useful when I want to collaborate on a project with a coworker or team. We can all have a place to host our project and make some changes that will be visible by everyone.
 
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You may not want having your local commit to be visible to others on your remote repository, so you have more control. Also, you may not be on your local computer all the time, but you can have access to GitHub with any Internet access.
+
+
