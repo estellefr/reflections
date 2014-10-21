@@ -10,4 +10,8 @@ You may not want having your local commit to be visible to others on your remote
 
 Fork is a clone of a repository on GitHub which you can't make changes to. This is a GitHub feature. A clone is a copy of a local repository, or a copy of a remote repository on a local computer. A branch is a set of commit that are linked to each other: you have a master branch by default, and you can create another branch where you can modify your project to experiment a new feature. Later, you can merge two branches.
 
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When you don't have access to Internet for a while, you can work on the last update version you pulled from GitHut.
+
 
