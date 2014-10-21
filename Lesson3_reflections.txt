@@ -6,4 +6,8 @@ A remote repository seems to be very useful when I want to collaborate on a proj
 
 You may not want having your local commit to be visible to others on your remote repository, so you have more control. Also, you may not be on your local computer all the time, but you can have access to GitHub with any Internet access.
 
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a clone of a repository on GitHub which you can't make changes to. This is a GitHub feature. A clone is a copy of a local repository, or a copy of a remote repository on a local computer. A branch is a set of commit that are linked to each other: you have a master branch by default, and you can create another branch where you can modify your project to experiment a new feature. Later, you can merge two branches.
+
 
